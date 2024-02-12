@@ -2,11 +2,11 @@
 
 To predict whether a canditate is employable and less employable or less employable based on communication skills and several other skills.
 
-# description:
+# Description:
 This project is used to predict the job role and if the person will be employable or lessemployable based 
 on their behaviour , skills , communication , manner of speaking etc..  It will also predict or suggest suitable job role based on their skill set.
 
-# implementing:
+# Implementation:
 1)Initially, we  have collected the dataset in kaggle.com.
 2)We have integrated the others columns like certificates, workshops and suggested job roles in the previous dataset.
 3)Then applied several models like RandomForestClassifier, LogisticRegression, DecisionTreeClassifier and lastly SVC. 
